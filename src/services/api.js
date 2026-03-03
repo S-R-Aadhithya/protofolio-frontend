@@ -41,3 +41,4 @@ export const portfolioAPI = {
   updatePortfolio: (id, data) => apiClient.put(`/portfolio/${id}/update`, data),
   deletePortfolio: (id) => apiClient.delete(`/portfolio/${id}/delete`),
 };
+
