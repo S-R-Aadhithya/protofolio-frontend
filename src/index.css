@@ -1,0 +1,6 @@
+/* Tailwind or raw utilities can go here, using App.css for now */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
